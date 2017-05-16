@@ -1,0 +1,23 @@
+{
+  "name": "fitness_diet",
+  "version": "1.0.0",
+  "description": "Dieta - prijmy, Fitness - vydaje, Pocity, Statistiky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhonc",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.16",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.2",
+    "css-loader": "^0.27.3",
+    "source-map-loader": "^0.2.0",
+    "typescript": "^2.2.1"
+  }
+}
